@@ -1,12 +1,6 @@
-# Uslu-Sayi-Hesaplayan-Program
-Java Üslü Sayı Hesaplayan Program
-
-www.patika.dev
-
 import java.util.Scanner;
 
 public class Main {
-    
     public static void main(String[] args) {
 
         int n, k, multiplication = 1;
